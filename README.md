@@ -1,17 +1,17 @@
-<h1 align="left">✦ hi, i'm Samuel</h1>
+<h1 align="left"><img src="star.svg" width="30" align="absmiddle" alt="✦"> hi, i'm Samuel</h1>
 
 <p align="left"><code>// driven by dreams</code></p>
 
-Fullstack developer from **São Paulo, Brazil** 🇧🇷.
+Fullstack developer from **São Paulo, Brazil**.
 I build clean, considered software, end to end. Currently going deeper into **Java** and **Angular**.
 
 ```js
 const samlcss = {
-  role: "fullstack developer",
+  role:     "fullstack developer",
   location: "São Paulo, BR",
-  stack: ["html", "css", "javascript", "python"],
+  stack:    ["html", "css", "javascript", "python"],
   learning: ["java", "angular"],
-  motto: "driven by dreams",
+  motto:    "driven by dreams",
 };
 ```
 
@@ -31,7 +31,7 @@ const samlcss = {
 
 ### ✦ featured
 
-**[orbit](https://github.com/lowx/orbit)**: my landing page, and it builds itself.
+**[orbit](https://github.com/samlcss/orbit)**: my landing page, and it builds itself.
 Type `/init` and a team of cursors draws, types and drags every piece into place, then orbits your mouse.
 Pure HTML, CSS and JavaScript. No frameworks.
 
@@ -41,6 +41,10 @@ Pure HTML, CSS and JavaScript. No frameworks.
 - 🌱 learning **Java** and **Angular**
 - 🔭 open to new projects and collaborations
 
+### ✦ talk to me
+
+[![Discord](https://img.shields.io/badge/discord-@lowx.gg-0b0b0b?style=flat-square&logo=discord&logoColor=ff4a2e)](https://discord.com/app)
+
 ---
 
-<p align="left"><sub>✦ <code>// 001 — hi, i'm lowx</code></sub></p>
+<p align="left"><sub><img src="star.svg" width="12" alt="✦"> <code>// 001 — hi, i'm samuel</code></sub></p>
