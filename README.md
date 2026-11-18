@@ -32,5 +32,3 @@ Pure HTML, CSS and JavaScript. No frameworks.
 - 🌱 learning **Java** and **Angular**
 
 ---
-
-<p align="left"><sub><img src="star.svg" width="12" alt="✦"> <code>// 001 — hi, i'm samuel</code></sub></p>
