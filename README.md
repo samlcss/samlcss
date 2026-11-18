@@ -5,15 +5,6 @@
 Fullstack developer from **São Paulo, Brazil**.
 I build clean, considered software, end to end. Currently going deeper into **Java** and **Angular**.
 
-```js
-const samlcss = {
-  role:     "fullstack developer",
-  location: "São Paulo, BR",
-  stack:    ["html", "css", "javascript", "python"],
-  learning: ["java", "angular"],
-  motto:    "driven by dreams",
-};
-```
 
 ---
 
@@ -40,10 +31,6 @@ Pure HTML, CSS and JavaScript. No frameworks.
 - ✦ building **orbit**
 - 🌱 learning **Java** and **Angular**
 - 🔭 open to new projects and collaborations
-
-### ✦ talk to me
-
-[![Discord](https://img.shields.io/badge/discord-@lowx.gg-0b0b0b?style=flat-square&logo=discord&logoColor=ff4a2e)](https://discord.com/app)
 
 ---
 
