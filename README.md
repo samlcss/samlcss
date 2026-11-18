@@ -30,5 +30,3 @@ Pure HTML, CSS and JavaScript. No frameworks.
 
 - ✦ building **orbit**
 - 🌱 learning **Java** and **Angular**
-
----
