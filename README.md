@@ -6,7 +6,7 @@ Fullstack developer from **São Paulo, Brazil** 🇧🇷.
 I build clean, considered software, end to end. Currently going deeper into **Java** and **Angular**.
 
 ```js
-const lowx = {
+const samlcss = {
   role: "fullstack developer",
   location: "São Paulo, BR",
   stack: ["html", "css", "javascript", "python"],
